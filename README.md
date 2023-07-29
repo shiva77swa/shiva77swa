@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiva77swa
 - 👀 I’m interested in AWS
-- 🌱 I’m currently learning Cloudfromation
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on AWS Devops
 - 📫 How to reach me shiva77swa@gmail.com
 
